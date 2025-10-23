@@ -1,5 +1,5 @@
 # restaurant-order-system
-This is a simple python project It allows the user to view a restaurant menu, place multiple orders, and automatically calculate the total bill. The program also checks if an item is not found in the menu and notifies the user accordingly.
+This is a simple python project It allows the user to view a restaurant menu, place multiple orders, and automatically calculate the total bill the program also checks if an item is not found in the menu and notifies the user accordingly.
 
  Features:
  
