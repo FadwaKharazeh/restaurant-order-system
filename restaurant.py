@@ -20,7 +20,8 @@ for order in orders:
     if dish_name in menu:
         subtotal=menu[dish_name]*quantity
         Total=Total+subtotal
-        print(f"{dish_name} = {subtotal}JD")
+        print(f"{quantity} {dish_name} = {subtotal}JD")
     else:
         print(f"{dish_name} not found in the menu")
+
 print(f"Total = {Total}JD")
