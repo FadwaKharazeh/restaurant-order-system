@@ -8,6 +8,7 @@ This is a simple python project It allows the user to view a restaurant menu, pl
 ✅ Calculates subtotal for each item and the final total  
 ✅ Detects invalid (not found) menu items  
 ✅ Shows the total bill at the end  
+
 Technologies Used:
 - **Python 3.x**
 - Concepts used:
